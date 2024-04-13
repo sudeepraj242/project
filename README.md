@@ -1,1 +1,1 @@
-# project
+# Android Notes Application Project
